@@ -2,7 +2,7 @@
 C# Application From Start to Finish: Tournament Tracker Course by IAmTimCorey
 
 # The Application
-A tournament that sets up a chedule for teams to play eacth pther in a single elimination style matchups.
+A tournament that sets up a schedule for teams to play each other in a single elimination style matchups.
 
 # Technology Utilized
 C#, Multi-form WinForms, In Depth Class Library, SQL Database, Text FIle Storage, Dapper, Linq, Interfaces, E-mailing form C#, Custom Events
