@@ -1,12 +1,18 @@
 # Tournament-Tracker-Course
 C# Application From Start to Finish: Tournament Tracker Course by IAmTimCorey
 
-00 Planning
+# The Application
+A tournament that sets up a chedule for teams to play eacth pther in a single elimination style matchups.
+
+# Technology Utilized
+C#, Multi-form WinForms, In Depth Class Library, SQL Database, Text FIle Storage, Dapper, Linq, Interfaces, E-mailing form C#, Custom Events
+
+## 00 Planning
 
 ### Scenario 
 Tournament tracker where people play set of games to determine top player. 
 Idea is to create tournament bracket system which will tell player who to play.
-At the end winner should ne identified.
+At the end winner should be identified.
 
 ###  Requirments
 1. Track games played and their outcome
@@ -35,7 +41,7 @@ At the end winner should ne identified.
 - Key Concepts : Email, SQL, Custom Events, Error Handling, Interfaces, Radnom Ordering, Texting, 
 
 
-01 DataDesign
+## 01 DataDesign
 
 ### Mapping the Data
 
@@ -73,7 +79,7 @@ At the end winner should ne identified.
 * ParentMatchup (Matchup)
 
 
-02 UserInterfaceDesign
+## 02 UserInterfaceDesign
 
 ```text
 ### Tournament Viwer Form
