@@ -171,4 +171,37 @@ Load Existing Tournament
 
 [Create Tournament]
 __________________________________________________________
-```
+ ```
+ 
+## 03 Logic Planning
+ 
+1. Create tournament
+ - "create new" : create a new team, opens new team form, takes the valuse and puts in Teams / Players box
+ - 'Add Team" : adds selected team
+ - "Create Prize" : works like "create new", takes the valuse and puts in Prize box
+ - "Delete Selected" : delets selected team / prize from box
+ - "Create Tournament" : creates tournament
+
+2. Create Team
+ - "Add Member" : add exsting player from list and add it too box
+ - "Create Member" : takes fileds information and creates member
+ - "Create Team" : creates team
+ - NEED TO ADD DELETE PLAYER BUTTON
+
+3. Create Prize
+ - "Create Prize" : creates prize based on information fields
+ 
+4. Tournament Dashboard
+ - "Lead Existing Tournament : loads tournament
+ - "Create Tournament" : creates tournament
+ 
+5. Torunament Viewer
+ - Tournament "name" : gets updateted
+ - "Round" : gets calculated based on tournamnet, "unplayed only" filter to show uplayed rounds
+ - "Score" : update match up scores based on displayed team 1 / 2 scores
+ 
+ 
+ 
+
+ 
+
